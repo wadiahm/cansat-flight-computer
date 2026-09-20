@@ -6,6 +6,9 @@ Built in [Wokwi](https://wokwi.com) — no physical hardware required.
 
 ---
 
+<img width="958" height="605" alt="image" src="https://github.com/user-attachments/assets/8f7216d1-cc31-4c4e-9e8e-90dd1c246269" />
+
+
 ## What It Does
 
 - Reads temperature, pressure, and altitude from a **BMP180** sensor over **I2C**
@@ -58,6 +61,8 @@ This pattern (tolerance + consecutive confirmation) is standard in embedded syst
 ---
 
 ## Sample Output
+<img width="956" height="815" alt="image" src="https://github.com/user-attachments/assets/74269f47-49df-41a9-985b-4d66c660c0e7" />
+
 
 [t=3.2s] ALT: 200.0m | MAX: 200.0m | TEMP: 24.0C | PRESSURE: 1000.0hPa
 [t=3.8s] ALT: 280.0m | MAX: 280.0m | TEMP: 24.0C | PRESSURE: 1000.0hPa
